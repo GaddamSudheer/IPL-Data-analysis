@@ -1,8 +1,5 @@
 # IPL Data Analysis & Visualization Dashboard
 
-## Dashboard Preview
-![Dashboard Preview](Dashboard Preview.png)
-
 ## Project Overview
 This project analyzes historical IPL match data from 2008-2024 to uncover key performance indicators, player statistics, and team trends. The goal was to create a comprehensive, interactive dashboard for fans and analysts to explore IPL history.
 
